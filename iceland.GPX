@@ -5,8 +5,8 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2014-06-14T21:22:50Z</time>
-    <bounds maxlat="65.832499992102385" maxlon="-16.382499989122152" minlat="63.419444030150771" minlon="-23.386330017820001"/>
+    <time>2014-06-14T21:32:10Z</time>
+    <bounds maxlat="65.832499992102385" maxlon="-16.382499989122152" minlat="63.419444030150771" minlon="-23.7710000295192"/>
   </metadata>
 
   <wpt lat="65.365999974310398" lon="-17.348000016063452">
@@ -159,6 +159,32 @@
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2014-06-14T21:10:36Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="63.624999979510903" lon="-19.62500000372529">
+    <time>2014-06-14T21:27:06Z</time>
+    <name>Eyjafjallajökull</name>
+    <sym>Triangle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Island</gpxx:Category>
+          <gpxx:Category>Island 2014</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island</wptx1:Category>
+          <wptx1:Category>Island 2014</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-14T21:27:06Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -759,6 +785,32 @@
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2014-06-09T20:54:46Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="64.80899996124208" lon="-23.7710000295192">
+    <time>2014-06-14T21:29:36Z</time>
+    <name>Snæfellsjökull</name>
+    <sym>Triangle, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Island</gpxx:Category>
+          <gpxx:Category>Island 2014</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island</wptx1:Category>
+          <wptx1:Category>Island 2014</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-14T21:29:36Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
