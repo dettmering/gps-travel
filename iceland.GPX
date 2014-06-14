@@ -5,9 +5,59 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2014-06-14T21:06:18Z</time>
-    <bounds maxlat="65.798333007842302" maxlon="-16.382499989122152" minlat="63.459150027483702" minlon="-23.386330017820001"/>
+    <time>2014-06-14T21:22:50Z</time>
+    <bounds maxlat="65.832499992102385" maxlon="-16.382499989122152" minlat="63.419444030150771" minlon="-23.386330017820001"/>
   </metadata>
+
+  <wpt lat="65.365999974310398" lon="-17.348000016063452">
+    <time>2014-06-14T21:13:55Z</time>
+    <name>Aldeyjarfoss</name>
+    <sym>Dropoff</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Island</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-14T21:13:55Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="63.419444030150771" lon="-19.009721959009767">
+    <time>2014-06-14T21:22:10Z</time>
+    <name>Black Beach</name>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Island</gpxx:Category>
+          <gpxx:Category>Island 2014</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island</wptx1:Category>
+          <wptx1:Category>Island 2014</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-14T21:22:10Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
 
   <wpt lat="64.82070998288691" lon="-23.386330017820001">
     <time>2014-06-09T19:52:21Z</time>
@@ -20,15 +70,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>Island 2014</gpxx:Category>
           <gpxx:Category>Island</gpxx:Category>
+          <gpxx:Category>Island 2014</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>Island 2014</wptx1:Category>
           <wptx1:Category>Island</wptx1:Category>
+          <wptx1:Category>Island 2014</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
@@ -46,15 +96,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>Island 2014</gpxx:Category>
           <gpxx:Category>Island</gpxx:Category>
+          <gpxx:Category>Island 2014</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>Island 2014</wptx1:Category>
           <wptx1:Category>Island</wptx1:Category>
+          <wptx1:Category>Island 2014</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
@@ -72,19 +122,43 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
+          <gpxx:Category>Island</gpxx:Category>
           <gpxx:Category>Island 2014</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island</wptx1:Category>
+          <wptx1:Category>Island 2014</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-09T21:00:49Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="65.82191901281476" lon="-16.388169005513191">
+    <time>2014-06-14T21:10:36Z</time>
+    <name>Dettifoss</name>
+    <sym>Dropoff</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
           <gpxx:Category>Island</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>Island 2014</wptx1:Category>
           <wptx1:Category>Island</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2014-06-09T21:00:49Z</ctx:CreationTime>
+        <ctx:CreationTime>2014-06-14T21:10:36Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -98,15 +172,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>Island 2014</gpxx:Category>
           <gpxx:Category>Island</gpxx:Category>
+          <gpxx:Category>Island 2014</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>Island 2014</wptx1:Category>
           <wptx1:Category>Island</wptx1:Category>
+          <wptx1:Category>Island 2014</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
@@ -127,15 +201,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>Island 2014</gpxx:Category>
           <gpxx:Category>Island</gpxx:Category>
+          <gpxx:Category>Island 2014</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>Island 2014</wptx1:Category>
           <wptx1:Category>Island</wptx1:Category>
+          <wptx1:Category>Island 2014</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
@@ -156,15 +230,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>Island 2014</gpxx:Category>
           <gpxx:Category>Island</gpxx:Category>
+          <gpxx:Category>Island 2014</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>Island 2014</wptx1:Category>
           <wptx1:Category>Island</wptx1:Category>
+          <wptx1:Category>Island 2014</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
@@ -183,15 +257,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>Island 2014</gpxx:Category>
           <gpxx:Category>Island</gpxx:Category>
+          <gpxx:Category>Island 2014</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>Island 2014</wptx1:Category>
           <wptx1:Category>Island</wptx1:Category>
+          <wptx1:Category>Island 2014</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
@@ -209,15 +283,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>Island 2014</gpxx:Category>
           <gpxx:Category>Island</gpxx:Category>
+          <gpxx:Category>Island 2014</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>Island 2014</wptx1:Category>
           <wptx1:Category>Island</wptx1:Category>
+          <wptx1:Category>Island 2014</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
@@ -239,19 +313,67 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
+          <gpxx:Category>Island</gpxx:Category>
           <gpxx:Category>Island 2014</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island</wptx1:Category>
+          <wptx1:Category>Island 2014</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-09T19:59:36Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="65.679999981075525" lon="-17.539999997243285">
+    <time>2014-06-14T21:12:03Z</time>
+    <name>Godafoss</name>
+    <sym>Dropoff</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
           <gpxx:Category>Island</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>Island 2014</wptx1:Category>
           <wptx1:Category>Island</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
-        <ctx:CreationTime>2014-06-09T19:59:36Z</ctx:CreationTime>
+        <ctx:CreationTime>2014-06-14T21:12:03Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="65.832499992102385" lon="-16.399999978020787">
+    <time>2014-06-14T21:11:31Z</time>
+    <name>Hafragilsfoss</name>
+    <sym>Dropoff</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Island</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-14T21:11:31Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -265,15 +387,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>Island 2014</gpxx:Category>
           <gpxx:Category>Island</gpxx:Category>
+          <gpxx:Category>Island 2014</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>Island 2014</wptx1:Category>
           <wptx1:Category>Island</wptx1:Category>
+          <wptx1:Category>Island 2014</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
@@ -291,15 +413,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>Island 2014</gpxx:Category>
           <gpxx:Category>Island</gpxx:Category>
+          <gpxx:Category>Island 2014</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>Island 2014</wptx1:Category>
           <wptx1:Category>Island</wptx1:Category>
+          <wptx1:Category>Island 2014</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
@@ -347,15 +469,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>Island 2014</gpxx:Category>
           <gpxx:Category>Island</gpxx:Category>
+          <gpxx:Category>Island 2014</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>Island 2014</wptx1:Category>
           <wptx1:Category>Island</wptx1:Category>
+          <wptx1:Category>Island 2014</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
@@ -375,15 +497,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>Island 2014</gpxx:Category>
           <gpxx:Category>Island</gpxx:Category>
+          <gpxx:Category>Island 2014</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>Island 2014</wptx1:Category>
           <wptx1:Category>Island</wptx1:Category>
+          <wptx1:Category>Island 2014</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
@@ -404,15 +526,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>Island 2014</gpxx:Category>
           <gpxx:Category>Island</gpxx:Category>
+          <gpxx:Category>Island 2014</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>Island 2014</wptx1:Category>
           <wptx1:Category>Island</wptx1:Category>
+          <wptx1:Category>Island 2014</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
@@ -433,15 +555,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>Island 2014</gpxx:Category>
           <gpxx:Category>Island</gpxx:Category>
+          <gpxx:Category>Island 2014</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>Island 2014</wptx1:Category>
           <wptx1:Category>Island</wptx1:Category>
+          <wptx1:Category>Island 2014</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
@@ -462,15 +584,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>Island 2014</gpxx:Category>
           <gpxx:Category>Island</gpxx:Category>
+          <gpxx:Category>Island 2014</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>Island 2014</wptx1:Category>
           <wptx1:Category>Island</wptx1:Category>
+          <wptx1:Category>Island 2014</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
@@ -491,15 +613,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>Island 2014</gpxx:Category>
           <gpxx:Category>Island</gpxx:Category>
+          <gpxx:Category>Island 2014</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>Island 2014</wptx1:Category>
           <wptx1:Category>Island</wptx1:Category>
+          <wptx1:Category>Island 2014</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
@@ -517,15 +639,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>Island 2014</gpxx:Category>
           <gpxx:Category>Island</gpxx:Category>
+          <gpxx:Category>Island 2014</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>Island 2014</wptx1:Category>
           <wptx1:Category>Island</wptx1:Category>
+          <wptx1:Category>Island 2014</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
@@ -543,15 +665,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>Island 2014</gpxx:Category>
           <gpxx:Category>Island</gpxx:Category>
+          <gpxx:Category>Island 2014</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>Island 2014</wptx1:Category>
           <wptx1:Category>Island</wptx1:Category>
+          <wptx1:Category>Island 2014</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
@@ -572,15 +694,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>Island 2014</gpxx:Category>
           <gpxx:Category>Island</gpxx:Category>
+          <gpxx:Category>Island 2014</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>Island 2014</wptx1:Category>
           <wptx1:Category>Island</wptx1:Category>
+          <wptx1:Category>Island 2014</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
@@ -598,15 +720,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>Island 2014</gpxx:Category>
           <gpxx:Category>Island</gpxx:Category>
+          <gpxx:Category>Island 2014</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>Island 2014</wptx1:Category>
           <wptx1:Category>Island</wptx1:Category>
+          <wptx1:Category>Island 2014</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
@@ -624,15 +746,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>Island 2014</gpxx:Category>
           <gpxx:Category>Island</gpxx:Category>
+          <gpxx:Category>Island 2014</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>Island 2014</wptx1:Category>
           <wptx1:Category>Island</wptx1:Category>
+          <wptx1:Category>Island 2014</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
@@ -650,15 +772,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>Island 2014</gpxx:Category>
           <gpxx:Category>Island</gpxx:Category>
+          <gpxx:Category>Island 2014</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>Island 2014</wptx1:Category>
           <wptx1:Category>Island</wptx1:Category>
+          <wptx1:Category>Island 2014</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
@@ -679,15 +801,15 @@
       <gpxx:WaypointExtension>
         <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
         <gpxx:Categories>
-          <gpxx:Category>Island 2014</gpxx:Category>
           <gpxx:Category>Island</gpxx:Category>
+          <gpxx:Category>Island 2014</gpxx:Category>
         </gpxx:Categories>
       </gpxx:WaypointExtension>
       <wptx1:WaypointExtension>
         <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
         <wptx1:Categories>
-          <wptx1:Category>Island 2014</wptx1:Category>
           <wptx1:Category>Island</wptx1:Category>
+          <wptx1:Category>Island 2014</wptx1:Category>
         </wptx1:Categories>
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
