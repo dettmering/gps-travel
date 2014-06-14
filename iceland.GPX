@@ -1,0 +1,699 @@
+<?xml version="1.0"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtensions/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2014-06-14T21:06:18Z</time>
+    <bounds maxlat="65.798333007842302" maxlon="-16.382499989122152" minlat="63.459150027483702" minlon="-23.386330017820001"/>
+  </metadata>
+
+  <wpt lat="64.82070998288691" lon="-23.386330017820001">
+    <time>2014-06-09T19:52:21Z</time>
+    <name>Budir Black Church</name>
+    <cmt>Black Church</cmt>
+    <desc>Black Church</desc>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Island 2014</gpxx:Category>
+          <gpxx:Category>Island</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island 2014</wptx1:Category>
+          <wptx1:Category>Island</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-09T19:52:21Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="63.459150027483702" lon="-19.364924971014261">
+    <time>2014-06-09T19:45:58Z</time>
+    <name>DC Wreck</name>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Island 2014</gpxx:Category>
+          <gpxx:Category>Island</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island 2014</wptx1:Category>
+          <wptx1:Category>Island</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-09T19:45:58Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="64.663056023418903" lon="-21.409166967496276">
+    <time>2014-06-09T21:00:49Z</time>
+    <name>Deildartunguhver</name>
+    <sym>Swimming Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Island 2014</gpxx:Category>
+          <gpxx:Category>Island</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island 2014</wptx1:Category>
+          <wptx1:Category>Island</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-09T21:00:49Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="63.993202988058329" lon="-16.895971018821001">
+    <time>2014-06-09T21:39:22Z</time>
+    <name>Fresnesi</name>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Island 2014</gpxx:Category>
+          <gpxx:Category>Island</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island 2014</wptx1:Category>
+          <wptx1:Category>Island</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-09T21:39:22Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="63.937440030276775" lon="-21.001572031527758">
+    <ele>0</ele>
+    <time>2014-06-09T21:23:42Z</time>
+    <name>Gas</name>
+    <cmt>&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;script type="text/javascript"&gt;window.location.href="http://maps.google.com/maps/place?latlng=6393744,-21001572,2998598841703282263&amp;hl=de&amp;gl=de&amp;ui=earth&amp;view=teaser";&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;</cmt>
+    <desc>&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;script type="text/javascript"&gt;window.location.href="http://maps.google.com/maps/place?latlng=6393744,-21001572,2998598841703282263&amp;hl=de&amp;gl=de&amp;ui=earth&amp;view=teaser";&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Island 2014</gpxx:Category>
+          <gpxx:Category>Island</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island 2014</wptx1:Category>
+          <wptx1:Category>Island</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-09T21:23:42Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="63.834869004786015" lon="-20.401590038090944">
+    <ele>0</ele>
+    <time>2014-06-09T21:23:42Z</time>
+    <name>Gas station</name>
+    <cmt>&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;script type="text/javascript"&gt;window.location.href="http://maps.google.com/maps/place?latlng=63834869,-2040159,6309025668692029368&amp;hl=de&amp;gl=de&amp;ui=earth&amp;view=teaser";&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;</cmt>
+    <desc>&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;script type="text/javascript"&gt;window.location.href="http://maps.google.com/maps/place?latlng=63834869,-2040159,6309025668692029368&amp;hl=de&amp;gl=de&amp;ui=earth&amp;view=teaser";&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Island 2014</gpxx:Category>
+          <gpxx:Category>Island</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island 2014</wptx1:Category>
+          <wptx1:Category>Island</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-09T21:23:42Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="63.75055099837482" lon="-20.229738978669047">
+    <ele>0</ele>
+    <time>2014-06-09T21:49:29Z</time>
+    <name>Gas station 2</name>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Island 2014</gpxx:Category>
+          <gpxx:Category>Island</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island 2014</wptx1:Category>
+          <wptx1:Category>Island</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-09T21:49:29Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="64.034833973273635" lon="-21.408920036628842">
+    <time>2014-06-09T19:49:03Z</time>
+    <name>Geothermal Plant</name>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Island 2014</gpxx:Category>
+          <gpxx:Category>Island</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island 2014</wptx1:Category>
+          <wptx1:Category>Island</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-09T19:49:03Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="64.31305599398911" lon="-20.300833024084568">
+    <time>2014-06-09T19:59:36Z</time>
+    <name>Geysir</name>
+    <cmt>Geysir
+</cmt>
+    <desc>Geysir
+</desc>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Island 2014</gpxx:Category>
+          <gpxx:Category>Island</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island 2014</wptx1:Category>
+          <wptx1:Category>Island</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-09T19:59:36Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="64.11416701041162" lon="-19.848332963883877">
+    <time>2014-06-14T20:49:04Z</time>
+    <name>Hjálparfoss</name>
+    <sym>Dropoff</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Island 2014</gpxx:Category>
+          <gpxx:Category>Island</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island 2014</wptx1:Category>
+          <wptx1:Category>Island</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-14T20:49:04Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="64.207778032869101" lon="-19.685833007097244">
+    <time>2014-06-14T20:53:49Z</time>
+    <name>Háifoss</name>
+    <sym>Dropoff</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Island 2014</gpxx:Category>
+          <gpxx:Category>Island</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island 2014</wptx1:Category>
+          <wptx1:Category>Island</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-14T20:53:49Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="63.984375" lon="-22.6043701171875">
+    <time>2014-06-14T21:00:34Z</time>
+    <name>Keflavik Airport</name>
+    <cmt>Keflavik
+
+</cmt>
+    <desc>Keflavik
+
+</desc>
+    <sym>Airport</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Island</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-14T21:00:34Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="63.988610962405801" lon="-19.063889002427459">
+    <time>2014-06-09T20:58:50Z</time>
+    <name>Landmannalaugar</name>
+    <sym>Swimming Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Island 2014</gpxx:Category>
+          <gpxx:Category>Island</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island 2014</wptx1:Category>
+          <wptx1:Category>Island</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-09T20:58:50Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="64.850000040605664" lon="-23.216699995100498">
+    <time>2014-06-09T20:50:07Z</time>
+    <name>Lysuholslaug</name>
+    <cmt>Hot Spring</cmt>
+    <desc>Hot Spring</desc>
+    <sym>Swimming Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Island 2014</gpxx:Category>
+          <gpxx:Category>Island</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island 2014</wptx1:Category>
+          <wptx1:Category>Island</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-09T20:50:07Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="64.074995024129748" lon="-20.764288986101747">
+    <ele>0</ele>
+    <time>2014-06-09T21:23:42Z</time>
+    <name>N1</name>
+    <cmt>&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;script type="text/javascript"&gt;window.location.href="http://maps.google.com/maps/place?latlng=64074995,-20764289,16965573332666717094&amp;hl=de&amp;gl=de&amp;ui=earth&amp;view=teaser";&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;</cmt>
+    <desc>&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;script type="text/javascript"&gt;window.location.href="http://maps.google.com/maps/place?latlng=64074995,-20764289,16965573332666717094&amp;hl=de&amp;gl=de&amp;ui=earth&amp;view=teaser";&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Island 2014</gpxx:Category>
+          <gpxx:Category>Island</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island 2014</wptx1:Category>
+          <wptx1:Category>Island</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-09T21:23:42Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="64.217523001134396" lon="-20.735664032399654">
+    <ele>0</ele>
+    <time>2014-06-09T21:23:42Z</time>
+    <name>N12</name>
+    <cmt>&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;script type="text/javascript"&gt;window.location.href="http://maps.google.com/maps/place?latlng=64217523,-20735664,9001194098982029272&amp;hl=de&amp;gl=de&amp;ui=earth&amp;view=teaser";&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;</cmt>
+    <desc>&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;script type="text/javascript"&gt;window.location.href="http://maps.google.com/maps/place?latlng=64217523,-20735664,9001194098982029272&amp;hl=de&amp;gl=de&amp;ui=earth&amp;view=teaser";&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Island 2014</gpxx:Category>
+          <gpxx:Category>Island</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island 2014</wptx1:Category>
+          <wptx1:Category>Island</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-09T21:23:42Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="63.943718997761607" lon="-21.008060965687037">
+    <ele>0</ele>
+    <time>2014-06-09T21:23:42Z</time>
+    <name>Olís</name>
+    <cmt>&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;script type="text/javascript"&gt;window.location.href="http://maps.google.com/maps/place?latlng=63943719,-21008061,5166069801509056516&amp;hl=de&amp;gl=de&amp;ui=earth&amp;view=teaser";&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;</cmt>
+    <desc>&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;script type="text/javascript"&gt;window.location.href="http://maps.google.com/maps/place?latlng=63943719,-21008061,5166069801509056516&amp;hl=de&amp;gl=de&amp;ui=earth&amp;view=teaser";&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Island 2014</gpxx:Category>
+          <gpxx:Category>Island</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island 2014</wptx1:Category>
+          <wptx1:Category>Island</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-09T21:23:42Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="63.944983994588256" lon="-21.01068701595068">
+    <ele>0</ele>
+    <time>2014-06-09T21:23:42Z</time>
+    <name>Orkan</name>
+    <cmt>&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;script type="text/javascript"&gt;window.location.href="http://maps.google.com/maps/place?latlng=63944984,-21010687,4015157006610648829&amp;hl=de&amp;gl=de&amp;ui=earth&amp;view=teaser";&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;</cmt>
+    <desc>&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;script type="text/javascript"&gt;window.location.href="http://maps.google.com/maps/place?latlng=63944984,-21010687,4015157006610648829&amp;hl=de&amp;gl=de&amp;ui=earth&amp;view=teaser";&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Island 2014</gpxx:Category>
+          <gpxx:Category>Island</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island 2014</wptx1:Category>
+          <wptx1:Category>Island</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-09T21:23:42Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="63.615556005388498" lon="-19.974722005426884">
+    <time>2014-06-14T20:44:24Z</time>
+    <name>Seljalandsfoss</name>
+    <sym>Dropoff</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Island 2014</gpxx:Category>
+          <gpxx:Category>Island</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island 2014</wptx1:Category>
+          <wptx1:Category>Island</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-14T20:44:24Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="65.798333007842302" lon="-16.382499989122152">
+    <time>2014-06-14T14:36:03Z</time>
+    <name>Sellfoss</name>
+    <sym>Dropoff</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Island 2014</gpxx:Category>
+          <gpxx:Category>Island</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island 2014</wptx1:Category>
+          <wptx1:Category>Island</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-14T14:36:03Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="63.995799031108618" lon="-21.185193965211511">
+    <ele>0</ele>
+    <time>2014-06-09T21:23:42Z</time>
+    <name>Shell</name>
+    <cmt>&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;script type="text/javascript"&gt;window.location.href="http://maps.google.com/maps/place?latlng=63995799,-21185194,10068804404577456444&amp;hl=de&amp;gl=de&amp;ui=earth&amp;view=teaser";&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;</cmt>
+    <desc>&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;script type="text/javascript"&gt;window.location.href="http://maps.google.com/maps/place?latlng=63995799,-21185194,10068804404577456444&amp;hl=de&amp;gl=de&amp;ui=earth&amp;view=teaser";&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Island 2014</gpxx:Category>
+          <gpxx:Category>Island</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island 2014</wptx1:Category>
+          <wptx1:Category>Island</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-09T21:23:42Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="63.529721964150667" lon="-19.513888992369175">
+    <time>2014-06-14T20:45:47Z</time>
+    <name>Skógafoss</name>
+    <sym>Dropoff</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Island 2014</gpxx:Category>
+          <gpxx:Category>Island</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island 2014</wptx1:Category>
+          <wptx1:Category>Island</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-14T20:45:47Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="64.66442403383553" lon="-21.288747014477849">
+    <time>2014-06-09T20:54:46Z</time>
+    <name>Snorralaug</name>
+    <sym>Swimming Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Island 2014</gpxx:Category>
+          <gpxx:Category>Island</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island 2014</wptx1:Category>
+          <wptx1:Category>Island</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-09T20:54:46Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="64.031389011070132" lon="-16.97249997407198">
+    <time>2014-05-10T16:54:25Z</time>
+    <name>Svartifoss</name>
+    <sym>Dropoff</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Island 2014</gpxx:Category>
+          <gpxx:Category>Island</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island 2014</wptx1:Category>
+          <wptx1:Category>Island</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-05-10T16:54:25Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="64.277302986010909" lon="-20.452380012720823">
+    <ele>0</ele>
+    <time>2014-06-09T21:23:42Z</time>
+    <name>Úthlíð - The Farm</name>
+    <cmt>&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;script type="text/javascript"&gt;window.location.href="http://maps.google.com/maps/place?latlng=64277303,-2045238,10517758809016030527&amp;hl=de&amp;gl=de&amp;ui=earth&amp;view=teaser";&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;</cmt>
+    <desc>&lt;!DOCTYPE html&gt;&lt;html&gt;&lt;head&gt;&lt;/head&gt;&lt;body&gt;&lt;script type="text/javascript"&gt;window.location.href="http://maps.google.com/maps/place?latlng=64277303,-2045238,10517758809016030527&amp;hl=de&amp;gl=de&amp;ui=earth&amp;view=teaser";&lt;/script&gt;&lt;/body&gt;&lt;/html&gt;</desc>
+    <sym>Gas Station</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Island 2014</gpxx:Category>
+          <gpxx:Category>Island</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island 2014</wptx1:Category>
+          <wptx1:Category>Island</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-09T21:23:42Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+</gpx>
