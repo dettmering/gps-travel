@@ -5,8 +5,8 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2014-06-19T22:24:51Z</time>
-    <bounds maxlat="49.820364033803344" maxlon="9.082167008891702" minlat="49.572490034624934" minlon="8.847888959571719"/>
+    <time>2014-06-19T22:45:20Z</time>
+    <bounds maxlat="49.820364033803344" maxlon="9.082167008891702" minlat="49.527799990028143" minlon="8.847888959571719"/>
   </metadata>
 
   <wpt lat="49.67750002630055" lon="8.973582973703742">
@@ -41,6 +41,24 @@
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2014-06-19T22:03:01Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.571949988603592" lon="8.964491039514542">
+    <time>2014-06-19T22:36:51Z</time>
+    <name>Beerfelder Galgen</name>
+    <sym>Skull and Crossbones</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-19T22:36:51Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -81,6 +99,24 @@
     </extensions>
   </wpt>
 
+  <wpt lat="49.527799990028143" lon="8.963099978864193">
+    <time>2014-06-19T22:30:57Z</time>
+    <name>Burg Freienstein</name>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-19T22:30:57Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
   <wpt lat="49.716417035087943" lon="8.847888959571719">
     <time>2014-06-19T22:15:32Z</time>
     <name>Burg Reichenberg</name>
@@ -95,6 +131,24 @@
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2014-06-19T22:15:32Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.680000012740493" lon="9.075832972303033">
+    <time>2014-06-19T22:33:58Z</time>
+    <name>Eulbacher Park</name>
+    <sym>Forest</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-19T22:33:58Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
@@ -132,6 +186,24 @@
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2014-06-19T21:28:48Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="49.603333007544279" lon="8.992778034880757">
+    <time>2014-06-19T22:35:41Z</time>
+    <name>Himbächel Viadukt</name>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-19T22:35:41Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
