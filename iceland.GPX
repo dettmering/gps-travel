@@ -5,7 +5,7 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2014-06-14T21:32:10Z</time>
+    <time>2014-06-19T10:38:25Z</time>
     <bounds maxlat="65.832499992102385" maxlon="-16.382499989122152" minlat="63.419444030150771" minlon="-23.7710000295192"/>
   </metadata>
 
@@ -61,7 +61,7 @@
 
   <wpt lat="64.82070998288691" lon="-23.386330017820001">
     <time>2014-06-09T19:52:21Z</time>
-    <name>Budir Black Church</name>
+    <name>Buðir Black Church</name>
     <cmt>Black Church</cmt>
     <desc>Black Church</desc>
     <sym>Scenic Area</sym>
@@ -837,6 +837,33 @@
       </wptx1:WaypointExtension>
       <ctx:CreationTimeExtension>
         <ctx:CreationTime>2014-05-10T16:54:25Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="64.263390032574534" lon="-21.116762012243271">
+    <ele>109.228454999999997</ele>
+    <time>2014-06-17T14:24:18Z</time>
+    <name>Thingvellir</name>
+    <sym>Scenic Area</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Island</gpxx:Category>
+          <gpxx:Category>Island 2014</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+        <wptx1:Categories>
+          <wptx1:Category>Island</wptx1:Category>
+          <wptx1:Category>Island 2014</wptx1:Category>
+        </wptx1:Categories>
+      </wptx1:WaypointExtension>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-06-17T14:24:18Z</ctx:CreationTime>
       </ctx:CreationTimeExtension>
     </extensions>
   </wpt>
