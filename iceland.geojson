@@ -1,0 +1,567 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Aldeyjarfoss",
+                "type": "user",
+                "time": "2014-06-14T21:13:55Z",
+                "sym": "Dropoff"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.34800001606345,
+                    65.3659999743104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Black Beach",
+                "type": "user",
+                "time": "2014-06-14T21:22:10Z",
+                "sym": "Scenic Area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.009721959009767,
+                    63.41944403015077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Buðir Black Church",
+                "cmt": "Black Church",
+                "desc": "Black Church",
+                "type": "user",
+                "time": "2014-06-09T19:52:21Z",
+                "sym": "Scenic Area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.38633001782,
+                    64.82070998288691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "DC Wreck",
+                "type": "user",
+                "time": "2014-06-09T19:45:58Z",
+                "sym": "Scenic Area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.36492497101426,
+                    63.4591500274837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Deildartunguhver",
+                "type": "user",
+                "time": "2014-06-09T21:00:49Z",
+                "sym": "Swimming Area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.409166967496276,
+                    64.6630560234189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dettifoss",
+                "type": "user",
+                "time": "2014-06-14T21:10:36Z",
+                "sym": "Dropoff"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.38816900551319,
+                    65.82191901281476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eyjafjallajökull",
+                "type": "user",
+                "time": "2014-06-14T21:27:06Z",
+                "sym": "Triangle, Red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.62500000372529,
+                    63.6249999795109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Fresnesi",
+                "type": "user",
+                "time": "2014-06-09T21:39:22Z",
+                "sym": "Gas Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.895971018821,
+                    63.99320298805833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gas",
+                "cmt": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"http://maps.google.com/maps/place?latlng=6393744,-21001572,2998598841703282263&hl=de&gl=de&ui=earth&view=teaser\";</script></body></html>",
+                "desc": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"http://maps.google.com/maps/place?latlng=6393744,-21001572,2998598841703282263&hl=de&gl=de&ui=earth&view=teaser\";</script></body></html>",
+                "type": "user",
+                "time": "2014-06-09T21:23:42Z",
+                "sym": "Gas Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.001572031527758,
+                    63.937440030276775,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gas station",
+                "cmt": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"http://maps.google.com/maps/place?latlng=63834869,-2040159,6309025668692029368&hl=de&gl=de&ui=earth&view=teaser\";</script></body></html>",
+                "desc": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"http://maps.google.com/maps/place?latlng=63834869,-2040159,6309025668692029368&hl=de&gl=de&ui=earth&view=teaser\";</script></body></html>",
+                "type": "user",
+                "time": "2014-06-09T21:23:42Z",
+                "sym": "Gas Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.401590038090944,
+                    63.834869004786015,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gas station 2",
+                "type": "user",
+                "time": "2014-06-09T21:49:29Z",
+                "sym": "Gas Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.229738978669047,
+                    63.75055099837482,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Geothermal Plant",
+                "type": "user",
+                "time": "2014-06-09T19:49:03Z",
+                "sym": "Scenic Area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.408920036628842,
+                    64.03483397327363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Geysir",
+                "cmt": "Geysir\n",
+                "desc": "Geysir\n",
+                "type": "user",
+                "time": "2014-06-09T19:59:36Z",
+                "sym": "Scenic Area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.300833024084568,
+                    64.31305599398911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Godafoss",
+                "type": "user",
+                "time": "2014-06-14T21:12:03Z",
+                "sym": "Dropoff"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.539999997243285,
+                    65.67999998107553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hafragilsfoss",
+                "type": "user",
+                "time": "2014-06-14T21:11:31Z",
+                "sym": "Dropoff"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.399999978020787,
+                    65.83249999210238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Hjálparfoss",
+                "type": "user",
+                "time": "2014-06-14T20:49:04Z",
+                "sym": "Dropoff"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.848332963883877,
+                    64.11416701041162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Háifoss",
+                "type": "user",
+                "time": "2014-06-14T20:53:49Z",
+                "sym": "Dropoff"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.685833007097244,
+                    64.2077780328691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Keflavik Airport",
+                "cmt": "Keflavik\n\n",
+                "desc": "Keflavik\n\n",
+                "type": "user",
+                "time": "2014-06-14T21:00:34Z",
+                "sym": "Airport"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.6043701171875,
+                    63.984375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Landmannalaugar",
+                "type": "user",
+                "time": "2014-06-09T20:58:50Z",
+                "sym": "Swimming Area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.06388900242746,
+                    63.9886109624058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Lysuholslaug",
+                "cmt": "Hot Spring",
+                "desc": "Hot Spring",
+                "type": "user",
+                "time": "2014-06-09T20:50:07Z",
+                "sym": "Swimming Area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.216699995100498,
+                    64.85000004060566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "N1",
+                "cmt": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"http://maps.google.com/maps/place?latlng=64074995,-20764289,16965573332666717094&hl=de&gl=de&ui=earth&view=teaser\";</script></body></html>",
+                "desc": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"http://maps.google.com/maps/place?latlng=64074995,-20764289,16965573332666717094&hl=de&gl=de&ui=earth&view=teaser\";</script></body></html>",
+                "type": "user",
+                "time": "2014-06-09T21:23:42Z",
+                "sym": "Gas Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.764288986101747,
+                    64.07499502412975,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "N12",
+                "cmt": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"http://maps.google.com/maps/place?latlng=64217523,-20735664,9001194098982029272&hl=de&gl=de&ui=earth&view=teaser\";</script></body></html>",
+                "desc": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"http://maps.google.com/maps/place?latlng=64217523,-20735664,9001194098982029272&hl=de&gl=de&ui=earth&view=teaser\";</script></body></html>",
+                "type": "user",
+                "time": "2014-06-09T21:23:42Z",
+                "sym": "Gas Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.735664032399654,
+                    64.2175230011344,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Olís",
+                "cmt": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"http://maps.google.com/maps/place?latlng=63943719,-21008061,5166069801509056516&hl=de&gl=de&ui=earth&view=teaser\";</script></body></html>",
+                "desc": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"http://maps.google.com/maps/place?latlng=63943719,-21008061,5166069801509056516&hl=de&gl=de&ui=earth&view=teaser\";</script></body></html>",
+                "type": "user",
+                "time": "2014-06-09T21:23:42Z",
+                "sym": "Gas Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.008060965687037,
+                    63.94371899776161,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Orkan",
+                "cmt": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"http://maps.google.com/maps/place?latlng=63944984,-21010687,4015157006610648829&hl=de&gl=de&ui=earth&view=teaser\";</script></body></html>",
+                "desc": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"http://maps.google.com/maps/place?latlng=63944984,-21010687,4015157006610648829&hl=de&gl=de&ui=earth&view=teaser\";</script></body></html>",
+                "type": "user",
+                "time": "2014-06-09T21:23:42Z",
+                "sym": "Gas Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.01068701595068,
+                    63.944983994588256,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Seljalandsfoss",
+                "type": "user",
+                "time": "2014-06-14T20:44:24Z",
+                "sym": "Dropoff"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.974722005426884,
+                    63.6155560053885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Sellfoss",
+                "type": "user",
+                "time": "2014-06-14T14:36:03Z",
+                "sym": "Dropoff"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.382499989122152,
+                    65.7983330078423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Shell",
+                "cmt": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"http://maps.google.com/maps/place?latlng=63995799,-21185194,10068804404577456444&hl=de&gl=de&ui=earth&view=teaser\";</script></body></html>",
+                "desc": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"http://maps.google.com/maps/place?latlng=63995799,-21185194,10068804404577456444&hl=de&gl=de&ui=earth&view=teaser\";</script></body></html>",
+                "type": "user",
+                "time": "2014-06-09T21:23:42Z",
+                "sym": "Gas Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.18519396521151,
+                    63.99579903110862,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Skógafoss",
+                "type": "user",
+                "time": "2014-06-14T20:45:47Z",
+                "sym": "Dropoff"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.513888992369175,
+                    63.52972196415067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Snorralaug",
+                "type": "user",
+                "time": "2014-06-09T20:54:46Z",
+                "sym": "Swimming Area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.28874701447785,
+                    64.66442403383553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Snæfellsjökull",
+                "type": "user",
+                "time": "2014-06-14T21:29:36Z",
+                "sym": "Triangle, Red"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.7710000295192,
+                    64.80899996124208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Svartifoss",
+                "type": "user",
+                "time": "2014-05-10T16:54:25Z",
+                "sym": "Dropoff"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.97249997407198,
+                    64.03138901107013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Thingvellir",
+                "type": "user",
+                "time": "2014-06-17T14:24:18Z",
+                "sym": "Scenic Area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.11676201224327,
+                    64.26339003257453,
+                    109.228455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Úthlíð - The Farm",
+                "cmt": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"http://maps.google.com/maps/place?latlng=64277303,-2045238,10517758809016030527&hl=de&gl=de&ui=earth&view=teaser\";</script></body></html>",
+                "desc": "<!DOCTYPE html><html><head></head><body><script type=\"text/javascript\">window.location.href=\"http://maps.google.com/maps/place?latlng=64277303,-2045238,10517758809016030527&hl=de&gl=de&ui=earth&view=teaser\";</script></body></html>",
+                "type": "user",
+                "time": "2014-06-09T21:23:42Z",
+                "sym": "Gas Station"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.452380012720823,
+                    64.27730298601091,
+                    0
+                ]
+            }
+        }
+    ]
+}
