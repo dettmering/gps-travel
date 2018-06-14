@@ -1,0 +1,246 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Abandoned Satellite Station",
+                "type": "user",
+                "time": "2014-06-20T11:37:16Z",
+                "sym": "Radio Beacon"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.971282979473472,
+                    49.713566014543176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Airfield EDFO",
+                "type": "user",
+                "time": "2014-06-19T21:56:21Z",
+                "sym": "Ultralight Area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.973582973703742,
+                    49.67750002630055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Airfield Vielbrunn",
+                "type": "user",
+                "time": "2014-06-19T22:03:01Z",
+                "sym": "Ultralight Area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.082167008891702,
+                    49.719667034223676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Beerfelder Galgen",
+                "type": "user",
+                "time": "2014-06-19T22:36:51Z",
+                "sym": "Skull and Crossbones"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.964491039514542,
+                    49.57194998860359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Brudergrund",
+                "type": "user",
+                "time": "2014-06-19T21:28:09Z",
+                "sym": "Forest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.973614992573857,
+                    49.65624896809459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Burg Breuberg",
+                "type": "user",
+                "time": "2014-06-19T22:12:42Z",
+                "sym": "Scenic Area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.039896987378597,
+                    49.820364033803344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Burg Freienstein",
+                "type": "user",
+                "time": "2014-06-19T22:30:57Z",
+                "sym": "Scenic Area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.963099978864193,
+                    49.52779999002814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Burg Reichenberg",
+                "type": "user",
+                "time": "2014-06-19T22:15:32Z",
+                "sym": "Scenic Area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.84788895957172,
+                    49.71641703508794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eulbacher Park",
+                "type": "user",
+                "time": "2014-06-19T22:33:58Z",
+                "sym": "Forest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.075832972303033,
+                    49.68000001274049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eutergrund",
+                "type": "user",
+                "time": "2014-06-19T21:40:24Z",
+                "sym": "Forest"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.069200037047267,
+                    49.60986795835197,
+                    416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Eutersee",
+                "type": "user",
+                "time": "2014-06-19T21:28:48Z",
+                "sym": "Swimming Area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.073879988864064,
+                    49.572490034624934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Himbächel Viadukt",
+                "type": "user",
+                "time": "2014-06-19T22:35:41Z",
+                "sym": "Scenic Area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.992778034880757,
+                    49.60333300754428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Marbachstausee",
+                "type": "user",
+                "time": "2014-06-19T21:28:35Z",
+                "sym": "Swimming Area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.96728296764195,
+                    49.608612013980746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Schloss Fürstenau",
+                "type": "user",
+                "time": "2014-06-19T22:10:10Z",
+                "sym": "Scenic Area"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.99966100230813,
+                    49.68838099390268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Silberbrünnchen",
+                "type": "user",
+                "time": "2014-06-19T21:29:02Z",
+                "sym": "Trail Head"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.975073024630547,
+                    49.672206016257405
+                ]
+            }
+        }
+    ]
+}
